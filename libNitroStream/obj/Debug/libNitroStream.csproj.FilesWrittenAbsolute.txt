@@ -1,0 +1,6 @@
+/home/jake/code/NitroStream-Mono/libNitroStream/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/jake/code/NitroStream-Mono/libNitroStream/bin/Debug/libNitroStream.dll.mdb
+/home/jake/code/NitroStream-Mono/libNitroStream/bin/Debug/libNitroStream.dll
+/home/jake/code/NitroStream-Mono/libNitroStream/obj/Debug/libNitroStream.dll
+/home/jake/code/NitroStream-Mono/libNitroStream/obj/Debug/libNitroStream.dll.mdb
+/home/jake/code/NitroStream-Mono/libNitroStream/bin/Debug/Octokit.dll
