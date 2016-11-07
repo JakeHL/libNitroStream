@@ -1,5 +1,5 @@
 # libNitroStream
-A library to expose all the necessary methods to connect to run NitroStream.
+A library to expose all the necessary methods to connect and run NitroStream.
 
 NitroStream Gtk# was built from the ground up using this.  
 NitroStream proper will be ported to this eventually.
